@@ -10,6 +10,13 @@ img.photo {
     border-color:white;
 }
 
+.video {
+    align-items: center;
+}
+iframe {
+    align-items: center;
+}
+
 h1 {
     text-decoration: underline #005838 ;
     display: block;
@@ -47,7 +54,7 @@ h1 {
 .reasons-centered {
     display:block;
     justify-content: space-around;
-    background-color: #00804e;
+    background-color: #005838;
     align-items:center;
     text-align:center;
     width:90%;
